@@ -178,4 +178,3 @@ public class PancakesStateSpace implements StateSpace {
         return new PancakesState(pancakes);
     }
 }
-
