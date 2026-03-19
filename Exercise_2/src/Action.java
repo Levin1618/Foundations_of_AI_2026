@@ -1,3 +1,1 @@
-public interface Action {
-    public int cost();
-}
+// see Exercise_4
